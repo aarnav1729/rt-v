@@ -6,7 +6,7 @@ import SearchBar from './components/SearchBar';
 
 // Create an Axios instance with the Render backend URL
 const api = axios.create({
-  baseURL: 'https://rt-1a2q.onrender.com',
+  baseURL: 'https://rt-vb.vercel.app/',
 });
 
 const App = () => {
